@@ -1,4 +1,4 @@
-# TD9 - Blackjack
+# TD9 - BlackJack
 
 ## Compilation 
 
